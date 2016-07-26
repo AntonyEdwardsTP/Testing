@@ -2,8 +2,4 @@
 log "Hello to you to"
 log "Hi there"
 log "Hello from server land"
-
-
-
-
-
+log "All is good"
